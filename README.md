@@ -17,15 +17,15 @@ A simple and efficient **To-Do List REST API** built with **Spring Boot** and **
 
 ## 🧱 Tech Stack
 
-- **Java 17+**
+- **Java 21+**
 - **Spring Boot 3+**
 - **Spring Web**
 - **Spring Data MongoDB**
-- **MongoDB** (local or cloud – MongoDB Atlas)
-- **Lombok** *(optional for cleaner code)*
+- **MongoDB** 
+- **Lombok** 
 - **Maven**
 
 ---
 
-## 📁 Project Structure
+
 
